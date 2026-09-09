@@ -1,7 +1,10 @@
-*{
-    background-color: aqua;
+.heading{
+   background-color: aquamarine;
+}
+.uppi{
+    background-color: bisque;
 }
 
-p,h1{
-    background-color: beige;
+.reddy{
+    background-color: blanchedalmond;
 }
